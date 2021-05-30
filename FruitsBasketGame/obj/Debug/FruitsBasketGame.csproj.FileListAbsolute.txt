@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\FruitsBasketGame\FruitsBasketGame\bin\Debug\FruitsBasketGame.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FruitsBasketGame\FruitsBasketGame\bin\Debug\FruitsBasketGame.exe
+c:\users\user\documents\visual studio 2015\Projects\FruitsBasketGame\FruitsBasketGame\bin\Debug\FruitsBasketGame.pdb
+c:\users\user\documents\visual studio 2015\Projects\FruitsBasketGame\FruitsBasketGame\obj\Debug\FruitsBasketGame.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FruitsBasketGame\FruitsBasketGame\obj\Debug\FruitsBasketGame.exe
+c:\users\user\documents\visual studio 2015\Projects\FruitsBasketGame\FruitsBasketGame\obj\Debug\FruitsBasketGame.pdb
